@@ -1,0 +1,18 @@
+[submodule "go_local_sort_practice"]
+	path = go_local_sort_practice
+	url = git@github.com:liupeining/go_local_sort_practice.git
+[submodule "distributed_sort"]
+	path = distributed_sort
+	url = git@github.com:liupeining/distributed_sort.git
+[submodule "HTTP_server"]
+	path = HTTP_server
+	url = git@github.com:liupeining/HTTP_server.git
+[submodule "Surfstore_phase1"]
+	path = Surfstore_phase1
+	url = git@github.com:liupeining/Surfstore_phase1.git
+[submodule "Surfstore_phase2"]
+	path = Surfstore_phase2
+	url = git@github.com:liupeining/Surfstore_phase2.git
+[submodule "Surfstore_final"]
+	path = Surfstore_final
+	url = git@github.com:liupeining/Surfstore_final.git
